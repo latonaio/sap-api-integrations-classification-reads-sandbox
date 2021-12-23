@@ -1,0 +1,62 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-classification-reads/SAP_API_Caller/caller.go#L60",
+	"function": "sap-api-integrations-classification-reads/SAP_API_Caller.(*SAPAPICaller).Class",
+	"level": "INFO",
+	"message": [
+		{
+			"Delete_mc": true,
+			"Update_mc": true,
+			"ClassInternalID": "1",
+			"CharcInternalID": "1",
+			"CharcPositionNumber": "2",
+			"Characteristic": "R2R_PURCH_GRP",
+			"AncestorClassInternalID": "1",
+			"OriginalCharcInternalID": "1",
+			"ChangeNumber": "",
+			"CharcIsPrintRelevant": "",
+			"CharcIsSearchRelevant": "",
+			"CharcIsDisplayRelevant": "",
+			"ValidityStartDate": "",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"KeyDate": "/Date(1640217600000)/",
+			"ClassLastChangedDateTime": ""
+		},
+		{
+			"Delete_mc": true,
+			"Update_mc": true,
+			"ClassInternalID": "1",
+			"CharcInternalID": "2",
+			"CharcPositionNumber": "1",
+			"Characteristic": "R2R_PURCH_ORD_TYPE",
+			"AncestorClassInternalID": "1",
+			"OriginalCharcInternalID": "2",
+			"ChangeNumber": "",
+			"CharcIsPrintRelevant": "",
+			"CharcIsSearchRelevant": "",
+			"CharcIsDisplayRelevant": "",
+			"ValidityStartDate": "",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"KeyDate": "/Date(1640217600000)/",
+			"ClassLastChangedDateTime": ""
+		},
+		{
+			"Delete_mc": true,
+			"Update_mc": true,
+			"ClassInternalID": "1",
+			"CharcInternalID": "3",
+			"CharcPositionNumber": "3",
+			"Characteristic": "R2R_PURCH_ORD_VALUE",
+			"AncestorClassInternalID": "1",
+			"OriginalCharcInternalID": "3",
+			"ChangeNumber": "",
+			"CharcIsPrintRelevant": "",
+			"CharcIsSearchRelevant": "",
+			"CharcIsDisplayRelevant": "",
+			"ValidityStartDate": "",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"KeyDate": "/Date(1640217600000)/",
+			"ClassLastChangedDateTime": ""
+		}
+	],
+	"time": "2021-12-23T22:07:14.671966+09:00"
+}

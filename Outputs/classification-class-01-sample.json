@@ -1,0 +1,35 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-classification-reads/SAP_API_Caller/caller.go#L53",
+	"function": "sap-api-integrations-classification-reads/SAP_API_Caller.(*SAPAPICaller).Class",
+	"level": "INFO",
+	"message": [
+		{
+			"Delete_mc": true,
+			"Update_mc": true,
+			"to_ClassCharacteristic_oc": true,
+			"to_ClassDescription_oc": true,
+			"to_ClassKeyword_oc": true,
+			"to_ClassText_oc": true,
+			"ClassInternalID": "1",
+			"ClassType": "032",
+			"ClassTypeName": "Release Strategy",
+			"Class": "R2R_CL_REL_CEKKO",
+			"ClassStatus": "1",
+			"ClassStatusName": "Released",
+			"ClassGroup": "",
+			"ClassGroupName": "",
+			"ClassSearchAuthGrp": "",
+			"ClassClassfctnAuthGrp": "",
+			"ClassMaintAuthGrp": "",
+			"CreationDate": "/Date(1466380800000)/",
+			"LastChangeDate": "/Date(1466380800000)/",
+			"ValidityStartDate": "/Date(1466380800000)/",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ClassLastChangedDateTime": "",
+			"KeyDate": "/Date(1640217600000)/",
+			"to_ClassCharacteristic": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_CLFN_CLASS_SRV/A_ClfnClassForKeyDate('1')/to_ClassCharacteristic",
+			"to_ClassDescription": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_CLFN_CLASS_SRV/A_ClfnClassForKeyDate('1')/to_ClassDescription"
+		}
+	],
+	"time": "2021-12-23T22:07:13.789406+09:00"
+}
