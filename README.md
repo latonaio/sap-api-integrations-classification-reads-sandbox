@@ -91,7 +91,7 @@ func (c *SAPAPICaller) AsyncGetClass(class string, accepter []string) {
 ## Output  
 本マイクロサービスでは、[golang-logging-library](https://github.com/latonaio/golang-logging-library) により、以下のようなデータがJSON形式で出力されます。  
 以下の sample.json の例は、SAP の クラスデータ が取得された結果の JSON の例です。  
-以下の項目のうち、"Delete_mc" ～ "to_ClassDescription" は、/SAP_API_Output_Formatter/type.go 内 の type General{}による出力結果です。  
+以下の項目のうち、"Delete_mc" ～ "to_ClassDescription" は、/SAP_API_Output_Formatter/type.go 内 の type Class {}による出力結果です。  
 "cursor" ～ "time"は、golang-logging-library による 定型フォーマットの出力結果です。  
 
 ```
