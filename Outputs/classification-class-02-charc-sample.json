@@ -17,8 +17,8 @@
 			"CharcIsSearchRelevant": "",
 			"CharcIsDisplayRelevant": "",
 			"ValidityStartDate": "",
-			"ValidityEndDate": "/Date(253402214400000)/",
-			"KeyDate": "/Date(1640217600000)/",
+			"ValidityEndDate": "9999-12-31T09:00:00+09:00",
+			"KeyDate": "2022-01-27T09:00:00+09:00",
 			"ClassLastChangedDateTime": ""
 		},
 		{
@@ -35,8 +35,8 @@
 			"CharcIsSearchRelevant": "",
 			"CharcIsDisplayRelevant": "",
 			"ValidityStartDate": "",
-			"ValidityEndDate": "/Date(253402214400000)/",
-			"KeyDate": "/Date(1640217600000)/",
+			"ValidityEndDate": "9999-12-31T09:00:00+09:00",
+			"KeyDate": "2022-01-27T09:00:00+09:00",
 			"ClassLastChangedDateTime": ""
 		},
 		{
@@ -53,10 +53,10 @@
 			"CharcIsSearchRelevant": "",
 			"CharcIsDisplayRelevant": "",
 			"ValidityStartDate": "",
-			"ValidityEndDate": "/Date(253402214400000)/",
-			"KeyDate": "/Date(1640217600000)/",
+			"ValidityEndDate": "9999-12-31T09:00:00+09:00",
+			"KeyDate": "2022-01-27T09:00:00+09:00",
 			"ClassLastChangedDateTime": ""
 		}
 	],
-	"time": "2021-12-23T22:07:14.671966+09:00"
+	"time": "2022-01-27T17:19:25+09:00"
 }

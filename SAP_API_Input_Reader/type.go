@@ -85,7 +85,6 @@ type SDC struct {
 		Characteristic           struct {
 			DeleteMc                 string `json:"DeleteMc"`
 			UpdateMc                 string `json:"UpdateMc"`
-			ClassInternalID          string `json:"ClassInternalID"`
 			CharcInternalID          string `json:"CharcInternalID"`
 			CharcPositionNumber      string `json:"CharcPositionNumber"`
 			Characteristic           string `json:"Characteristic"`
@@ -102,7 +101,6 @@ type SDC struct {
 		} `json:"Characteristic"`
 		ClassDescription struct {
 			UpdateMc                 string `json:"Update_mc"`
-			ClassInternalID          string `json:"ClassInternalID"`
 			Language                 string `json:"Language"`
 			ClassDescription         string `json:"ClassDescription"`
 			KeyDate                  string `json:"KeyDate"`

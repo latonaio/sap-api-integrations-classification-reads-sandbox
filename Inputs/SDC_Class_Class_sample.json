@@ -30,7 +30,6 @@
 		"Characteristic": {
 			"DeleteMc": "",
 			"UpdateMc": "",
-			"ClassInternalID": "",
 			"CharcInternalID": "",
 			"CharcPositionNumber": "",
 			"Characteristic": "",
@@ -47,7 +46,6 @@
 		},
 		"ClassDescription": {
 			"Update_mc": "",
-			"ClassInternalID": "",
 			"Language": "",
 			"ClassDescription": "",
 			"KeyDate": "",

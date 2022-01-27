@@ -89,10 +89,10 @@ func (c *SAPAPICaller) AsyncGetClass(class string, accepter []string) {
 ```
 
 ## Output  
-本マイクロサービスでは、[golang-logging-library](https://github.com/latonaio/golang-logging-library) により、以下のようなデータがJSON形式で出力されます。  
+本マイクロサービスでは、[golang-logging-library-for-sap](https://github.com/latonaio/golang-logging-library-for-sap) により、以下のようなデータがJSON形式で出力されます。  
 以下の sample.json の例は、SAP の クラスデータ が取得された結果の JSON の例です。  
 以下の項目のうち、"Delete_mc" ～ "to_ClassDescription" は、/SAP_API_Output_Formatter/type.go 内 の type Class {}による出力結果です。  
-"cursor" ～ "time"は、golang-logging-library による 定型フォーマットの出力結果です。  
+"cursor" ～ "time"は、golang-logging-library-for-sap による 定型フォーマットの出力結果です。  
 
 ```
 {
@@ -118,16 +118,16 @@ func (c *SAPAPICaller) AsyncGetClass(class string, accepter []string) {
 			"ClassSearchAuthGrp": "",
 			"ClassClassfctnAuthGrp": "",
 			"ClassMaintAuthGrp": "",
-			"CreationDate": "/Date(1466380800000)/",
-			"LastChangeDate": "/Date(1466380800000)/",
-			"ValidityStartDate": "/Date(1466380800000)/",
-			"ValidityEndDate": "/Date(253402214400000)/",
+			"CreationDate": "2016-06-20T09:00:00+09:00",
+			"LastChangeDate": "2016-06-20T09:00:00+09:00",
+			"ValidityStartDate": "2016-06-20T09:00:00+09:00",
+			"ValidityEndDate": "9999-12-31T09:00:00+09:00",
 			"ClassLastChangedDateTime": "",
-			"KeyDate": "/Date(1640217600000)/",
+			"KeyDate": "2022-01-27T09:00:00+09:00",
 			"to_ClassCharacteristic": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_CLFN_CLASS_SRV/A_ClfnClassForKeyDate('1')/to_ClassCharacteristic",
 			"to_ClassDescription": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_CLFN_CLASS_SRV/A_ClfnClassForKeyDate('1')/to_ClassDescription"
 		}
 	],
-	"time": "2021-12-23T22:07:13.789406+09:00"
+	"time": "2022-01-27T17:19:24+09:00"
 }
 ```

@@ -8,7 +8,7 @@
 			"ClassInternalID": "1",
 			"Language": "DE",
 			"ClassDescription": "Bestellung Gesamtfreigabestrategie",
-			"KeyDate": "/Date(1640217600000)/",
+			"KeyDate": "2022-01-27T09:00:00+09:00",
 			"ClassLastChangedDateTime": ""
 		},
 		{
@@ -16,9 +16,9 @@
 			"ClassInternalID": "1",
 			"Language": "EN",
 			"ClassDescription": "PO Release at Header Level",
-			"KeyDate": "/Date(1640217600000)/",
+			"KeyDate": "2022-01-27T09:00:00+09:00",
 			"ClassLastChangedDateTime": ""
 		}
 	],
-	"time": "2021-12-23T22:07:15.251765+09:00"
+	"time": "2022-01-27T17:19:25+09:00"
 }
